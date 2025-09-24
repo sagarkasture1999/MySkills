@@ -1,0 +1,62 @@
+Informatica Powercenter.
+  Designed and developed complex ETL mappings, sessions, and workflows to extract, transform, and load data from multiple sources (flat files, Oracle, PostgreSQL, CSV, XML).
+  Created Source-to-Target Mapping (STM) documents and implemented transformations like Lookup, Aggregator, Joiner, Router, Filter, Sequence Generator, Rank, Update Strategy.
+  Built reusable transformations and mapplets for efficiency and consistency.
+  Tuned mappings, SQL overrides, and session properties to improve load performance.
+  Implemented partitioning, pushdown optimization, and caching strategies for high-volume data loads.
+  Optimized workflows with incremental loads and CDC (Change Data Capture).
+  Automated ETL workflows using Control-M and Informatica Scheduler.
+  Monitored, debugged, and resolved session/workflow failures, ensuring SLA compliance.
+  ETL testing: row counts, reconciliation, transformation validation.
+  Implemented unit testing and regression testing during deployment cycles.
+  Migrated objects across DEV, UAT, and PROD environments using Deployment Groups and Repository Manager.
+  Provided production support, troubleshooting job failures, and resolving data issues.
+
+ETL Testing
+Designed and executed ETL test cases from source-to-target mappings, ensuring alignment with business rules.
+Performed row count, data reconciliation, and transformation validation across Oracle, PostgreSQL, and Snowflake.
+Conducted regression and UAT testing, ensuring smooth deployment across multiple releases.
+Automated ETL validation scripts in SQL/PLSQL, reducing manual effort and increasing coverage.
+Identified and resolved data quality issues by performing profiling and validation on staging and warehouse layers.
+Reported and tracked defects using Jira, achieving faster resolution and improved collaboration with development teams.
+
+SQL
+  Wrote complex SQL queries with joins, subqueries, CTEs, and window functions to support reporting and analytics.
+  Improved performance using indexes, execution plans, and partitioning strategies, reducing query runtime
+  Created and maintained tables, views, materialized views, and indexes for scalable solutions.
+  Performed data profiling, reconciliation, and ad-hoc SQL analysis to ensure accuracy
+  Built SQL scripts for bulk inserts, updates, and data migration between systems.
+
+PLSQL
+  Wrote optimized SQL queries with joins, CTEs, and window functions, improving reporting accuracy and reducing runtime by 25%.
+  Developed and maintained PL/SQL packages, procedures, and triggers, automating recurring business processes and validations.
+  Improved system performance by implementing query tuning strategies using indexes, Explain Plan, and partitioning.
+  Designed materialized views and indexes for faster query response in analytical dashboards.
+  Implemented bulk data processing (Bulk Collect, FORALL), reducing ETL job execution time by 30%.
+  Performed data reconciliation and profiling using advanced SQL scripts, ensuring 99% data accuracy in production.
+
+
+Apache Kafka
+  Designed and implemented real-time ingestion pipelines using Apache Kafka, reducing data latency by 40%.
+  Developed Kafka producers/consumers and integrated them with Informatica PowerCenter for streaming ETL workflows.
+  Managed Kafka topics, partitions, and offsets, ensuring scalability and fault-tolerant data delivery.
+  Integrated Kafka Connect with Oracle and Snowflake for seamless data streaming into cloud data warehouses.
+
+Snowflake Development
+  Designed and implemented Snowflake schemas, tables, views, and stages, supporting large-scale data warehousing solutions.
+  Developed complex SQL scripts, UDFs, and stored procedures for business logic and reporting.
+  Built real-time ELT pipelines in Snowflake using Streams, Tasks, and Snowpipe, enabling continuous ingestion from S3.
+  Optimized SQL queries and warehouse performance, reducing processing time by 35%.
+  Integrated Snowflake with Informatica PowerCenter/IICS for automated ETL workflows.
+  Implemented RBAC-based security, data masking, and row-level policies to safeguard sensitive data.
+  Worked with semi-structured data (JSON, Avro, Parquet) using Snowflake’s Variant data type.
+
+
+
+Control M
+Python
+ETL Testing
+DataBricks
+IICS.
+
+
