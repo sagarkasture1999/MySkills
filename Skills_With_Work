@@ -13,12 +13,12 @@ Informatica Powercenter.
   Provided production support, troubleshooting job failures, and resolving data issues.
 
 ETL Testing
-Designed and executed ETL test cases from source-to-target mappings, ensuring alignment with business rules.
-Performed row count, data reconciliation, and transformation validation across Oracle, PostgreSQL, and Snowflake.
-Conducted regression and UAT testing, ensuring smooth deployment across multiple releases.
-Automated ETL validation scripts in SQL/PLSQL, reducing manual effort and increasing coverage.
-Identified and resolved data quality issues by performing profiling and validation on staging and warehouse layers.
-Reported and tracked defects using Jira, achieving faster resolution and improved collaboration with development teams.
+  Designed and executed ETL test cases from source-to-target mappings, ensuring alignment with business rules.
+  Performed row count, data reconciliation, and transformation validation across Oracle, PostgreSQL, and Snowflake.
+  Conducted regression and UAT testing, ensuring smooth deployment across multiple releases.
+  Automated ETL validation scripts in SQL/PLSQL, reducing manual effort and increasing coverage.
+  Identified and resolved data quality issues by performing profiling and validation on staging and warehouse layers.
+  Reported and tracked defects using Jira, achieving faster resolution and improved collaboration with development teams.
 
 SQL
   Wrote complex SQL queries with joins, subqueries, CTEs, and window functions to support reporting and analytics.
@@ -51,6 +51,10 @@ Snowflake Development
   Implemented RBAC-based security, data masking, and row-level policies to safeguard sensitive data.
   Worked with semi-structured data (JSON, Avro, Parquet) using Snowflake’s Variant data type.
 
+Databricks -- Python
+  Databricks Notebooks (Python/SQL) → For automated validation scripts.
+  Performed ETL Testing in Databricks using PySpark & SQL for row counts, reconciliation, and transformation validations
+  Automated ETL validation scripts in Databricks Notebooks, ensuring 99% data accuracy across Delta Lake tables.
 
 
 Control M
