@@ -1,0 +1,26 @@
+
+Services provided by Amazon Web Services (AWS)
+Compute
+EC2 (Elastic Compute Cloud): ,Lambda: ,ECS / EKS: ,Elastic Beanstalk: ,
+
+Storage 
+S3 (Simple Storage Service): ,EBS (Elastic Block Store): ,EFS (Elastic File System): ,Glacier / Glacier Deep Archive: ,
+
+Databases
+RDS (Relational Database Service): ,DynamoDB: ,Redshift: ,Neptune: 
+
+Networking
+Route 53: ,CloudFront: ,Elastic Load Balancer (ELB): ,
+
+🔒 Security & Identity
+IAM (Identity & Access Management): Role-based access control ,KMS (Key Management Service): Encryption management ,WAF (Web Application Firewall): Protects web apps ,Shield: DDoS protection ,
+
+
+📊 Analytics & AI
+Athena: Query data in S3 with SQL ,Glue: Serverless ETL (Extract, Transform, Load) ,EMR (Elastic MapReduce): Big Data processing (Hadoop, Spark) ,Kinesis: Real-time data streaming ,SageMaker: Machine Learning model building/deployment ,
+
+
+🛠️ DevOps & Management
+CloudFormation: Infrastructure as Code (IaC),CloudWatch: Monitoring & logging,CodePipeline / CodeBuild / CodeDeploy: CI/CD automation,Step Functions: Workflow orchestration,
+
+
